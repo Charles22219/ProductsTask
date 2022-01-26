@@ -1,0 +1,72 @@
+[{
+    "title": "Brown eggs",
+    "category": "dairy",
+    "production_date": "04/20/2021",
+    "manufacturer": "sailorhg",
+    "price": 28.1,
+    "quantity": 1  
+  }, {
+    "title": "Sweet fresh stawberry",
+    "category": "fruit",
+    "production_date": "04/23/2021",
+    "manufacturer": "jenlooper",
+    "price": 29.45,
+    "quantity": 1
+  }, {
+    "title": "Asparagus",
+    "category": "vegetable",
+    "production_date": "04/18/2021",
+    "manufacturer": "sailorhg",
+    "price": 18.95,
+    "quantity": 2
+  }, {
+    "title": "Green smoothie",
+    "category": "dairy",
+    "production_date": "04/18/2021",
+    "manufacturer": "sailorhg",
+    "price": 17.68,
+    "quantity": 1
+  }, {
+    "title": "Raw legums",
+    "category": "vegetable",
+    "production_date": "04/20/2021",
+    "manufacturer": "jenlooper",
+    "price": 17.11,
+    "quantity": 2
+  }, {
+    "title": "Baking cake",
+    "category": "dairy",
+    "production_date": "04/22/2021",
+    "manufacturer": "jenlooper",
+    "price": 11.14,
+    "quantity": 1
+  }, {
+    "title": "Pesto with basil",
+    "category": "vegetable",
+    "production_date": "04/22/2021",
+    "manufacturer": "sailorhg",
+    "price": 18.19,
+    "quantity": 4
+  }, {
+    "title": "Hazelnut in black ceramic bowl",
+    "category": "vegetable",
+    "production_date": "04/16/2021",
+    "manufacturer": "sailorhg",
+    "price": 27.35,
+    "quantity": 1
+  }, {
+    "title": "Fresh stawberry",
+    "category": "fruit",
+    "production_date": "04/15/2021",
+    "manufacturer": "jenlooper",
+    "price": 28.59,
+    "quantity": 3
+  }, {
+    "title": "Lemon and salt",
+    "category": "fruit",
+    "production_date": "04/30/2021",
+    "manufacturer": "sailorhg",
+    "price": 15.79,
+    "quantity": 1
+  }
+]
